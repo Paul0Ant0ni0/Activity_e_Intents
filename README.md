@@ -1,3 +1,3 @@
 # Activity_e_Intents
 
-Descrição: Produzir uma navegação básica entre duas telas utilizando as Activities
+Descrição da atividade: Produzir uma navegação básica entre duas telas utilizando as Activities
